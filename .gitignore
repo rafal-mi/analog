@@ -1,0 +1,9 @@
+# KiCad pliki tymczasowe i backupy
+*-backups/
+*.lck
+*.bak
+*.bck
+*~
+_autosave-*
+fp-info-cache
+*.raw
